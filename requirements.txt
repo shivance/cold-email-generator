@@ -1,0 +1,9 @@
+nest_asyncio
+pydantic
+pydantic_ai
+rich
+html2text
+python-dotenv
+requests
+bs4
+gradio
